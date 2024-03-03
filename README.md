@@ -12,3 +12,5 @@ transaction datasets contain the problem of imbalance in datasets.
 A good fraud detection system should be able to identify the fraud
 transaction accurately and should make the detection possible in
 real-time transactions.
+
+Link for dataset:- https://drive.google.com/drive/folders/1E0lutaUspPDmEsVi6dd2-nGfX93RpP25?usp=sharing
